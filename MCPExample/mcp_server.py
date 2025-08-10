@@ -2,11 +2,7 @@
 import asyncio
 import os
 from mcp.server.fastmcp import FastMCP
-# ServerConfig is not needed for FastMCP
-#from tools.gmail import get_gmail_service
-#from googleapiclient.errors import HttpError
-#import base64
-#from email.message import EmailMessage
+
 from typing import Any
 import httpx
 
